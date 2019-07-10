@@ -1,0 +1,9 @@
+D:\Example\UnitTest\ReadExcel\bin\Debug\ReadExcel.exe.config
+D:\Example\UnitTest\ReadExcel\bin\Debug\ReadExcel.exe
+D:\Example\UnitTest\ReadExcel\bin\Debug\ReadExcel.pdb
+D:\Example\UnitTest\ReadExcel\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Example\UnitTest\ReadExcel\obj\Debug\ReadExcel.csprojAssemblyReference.cache
+D:\Example\UnitTest\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\ReadExcel\obj\Debug\ReadExcel.csproj.CopyComplete
+D:\Example\UnitTest\ReadExcel\obj\Debug\ReadExcel.exe
+D:\Example\UnitTest\ReadExcel\obj\Debug\ReadExcel.pdb

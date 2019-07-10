@@ -1,0 +1,9 @@
+D:\Example\UnitTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Example\UnitTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Example\UnitTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Example\UnitTest\ConsoleApp1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Example\UnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Example\UnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\Example\UnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Example\UnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

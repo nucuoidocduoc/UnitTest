@@ -1,0 +1,10 @@
+D:\Example\UnitTest\UnitTestGetParameter\obj\Debug\UnitTestGetParameter.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\UnitTestGetParameter\bin\Debug\UnitTestGetParameter.dll
+D:\Example\UnitTest\UnitTestGetParameter\bin\Debug\UnitTestGetParameter.pdb
+D:\Example\UnitTest\UnitTestGetParameter\bin\Debug\RevitAddInUtility.dll
+D:\Example\UnitTest\UnitTestGetParameter\bin\Debug\RevitAPI.dll
+D:\Example\UnitTest\UnitTestGetParameter\bin\Debug\RevitAPIUI.dll
+D:\Example\UnitTest\UnitTestGetParameter\obj\Debug\UnitTestGetParameter.csproj.CopyComplete
+D:\Example\UnitTest\UnitTestGetParameter\obj\Debug\UnitTestGetParameter.dll
+D:\Example\UnitTest\UnitTestGetParameter\obj\Debug\UnitTestGetParameter.pdb
+D:\Example\UnitTest\UnitTestGetParameter\obj\Debug\UnitTestGetParameter.csprojAssemblyReference.cache

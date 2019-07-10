@@ -1,0 +1,9 @@
+D:\Example\UnitTest\Units\obj\Debug\Units.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\Units\bin\Debug\Units.dll
+D:\Example\UnitTest\Units\bin\Debug\Units.pdb
+D:\Example\UnitTest\Units\bin\Debug\RevitAddInUtility.dll
+D:\Example\UnitTest\Units\bin\Debug\RevitAPI.dll
+D:\Example\UnitTest\Units\bin\Debug\RevitAPIUI.dll
+D:\Example\UnitTest\Units\obj\Debug\Units.csproj.CopyComplete
+D:\Example\UnitTest\Units\obj\Debug\Units.dll
+D:\Example\UnitTest\Units\obj\Debug\Units.pdb

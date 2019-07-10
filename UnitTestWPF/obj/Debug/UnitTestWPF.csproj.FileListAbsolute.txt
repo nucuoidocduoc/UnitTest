@@ -1,0 +1,15 @@
+D:\Example\UnitTest\UnitTestWPF\bin\Debug\UnitTestWPF.exe.config
+D:\Example\UnitTest\UnitTestWPF\bin\Debug\UnitTestWPF.exe
+D:\Example\UnitTest\UnitTestWPF\bin\Debug\UnitTestWPF.pdb
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.csprojAssemblyReference.cache
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\MainWindow.g.cs
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\App.g.cs
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF_MarkupCompile.cache
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF_MarkupCompile.lref
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\MainWindow.baml
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.g.resources
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.Properties.Resources.resources
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.csproj.GenerateResource.cache
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.exe
+D:\Example\UnitTest\UnitTestWPF\obj\Debug\UnitTestWPF.pdb

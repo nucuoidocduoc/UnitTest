@@ -1,0 +1,10 @@
+D:\Example\UnitTest\GroupUnitTest\obj\Debug\GroupUnitTest.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\GroupUnitTest\bin\Debug\GroupUnitTest.dll
+D:\Example\UnitTest\GroupUnitTest\bin\Debug\GroupUnitTest.pdb
+D:\Example\UnitTest\GroupUnitTest\bin\Debug\RevitAddInUtility.dll
+D:\Example\UnitTest\GroupUnitTest\bin\Debug\RevitAPI.dll
+D:\Example\UnitTest\GroupUnitTest\bin\Debug\RevitAPIUI.dll
+D:\Example\UnitTest\GroupUnitTest\obj\Debug\GroupUnitTest.csproj.CopyComplete
+D:\Example\UnitTest\GroupUnitTest\obj\Debug\GroupUnitTest.dll
+D:\Example\UnitTest\GroupUnitTest\obj\Debug\GroupUnitTest.pdb
+D:\Example\UnitTest\GroupUnitTest\obj\Debug\GroupUnitTest.csprojAssemblyReference.cache

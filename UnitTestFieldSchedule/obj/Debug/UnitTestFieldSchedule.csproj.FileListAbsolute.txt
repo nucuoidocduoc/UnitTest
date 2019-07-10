@@ -1,0 +1,10 @@
+D:\Example\UnitTest\UnitTestFieldSchedule\bin\Debug\UnitTestFieldSchedule.dll
+D:\Example\UnitTest\UnitTestFieldSchedule\bin\Debug\UnitTestFieldSchedule.pdb
+D:\Example\UnitTest\UnitTestFieldSchedule\bin\Debug\RevitAddInUtility.dll
+D:\Example\UnitTest\UnitTestFieldSchedule\bin\Debug\RevitAPI.dll
+D:\Example\UnitTest\UnitTestFieldSchedule\bin\Debug\RevitAPIUI.dll
+D:\Example\UnitTest\UnitTestFieldSchedule\obj\Debug\UnitTestFieldSchedule.csproj.CoreCompileInputs.cache
+D:\Example\UnitTest\UnitTestFieldSchedule\obj\Debug\UnitTestFieldSchedule.csproj.CopyComplete
+D:\Example\UnitTest\UnitTestFieldSchedule\obj\Debug\UnitTestFieldSchedule.dll
+D:\Example\UnitTest\UnitTestFieldSchedule\obj\Debug\UnitTestFieldSchedule.pdb
+D:\Example\UnitTest\UnitTestFieldSchedule\obj\Debug\UnitTestFieldSchedule.csprojAssemblyReference.cache
